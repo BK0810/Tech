@@ -47,11 +47,11 @@ st.write("입력한 도시:", user_input)
 
 st.write("git push 테스트")
 
-# git push
+#### git push ####
 # git add <파일 이름>
 # git commit -m "작업 내용 설명"
 # git push origin main
 
 
-# git pull
+#### git pull ####
 # git pull origin main
