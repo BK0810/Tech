@@ -43,3 +43,14 @@ user_input = st.text_input("도시명을 입력하세요", "서울")  # 기본�
 
 # 입력한 값을 출력
 st.write("입력한 도시:", user_input)
+
+
+st.write("git push 테스트")
+
+# git push
+# git add <파일 이름>
+# git commit -m "작업 내용 설명"
+
+
+# git pull
+# git pull origin main
