@@ -1,10 +1,19 @@
-# git 테스트
-# 변경사항 확인
-# pull 테스트
+#### git push ####
+# git add <파일 이름>
+# git commit -m "작업 내용 설명"
+# git push origin main
+
+
+#### git pull ####
+# git pull origin main
+
+
+# github repository
+# https://github.com/BK0810/streamlit_app
+
 
 # 스트림릿(Streamlit) 30일 챌린지
 # https://wikidocs.net/book/14530
-
 
 # 스트림릿 커뮤니티 클라우드
 # https://share.streamlit.io/
@@ -14,6 +23,8 @@
 
 # https://home.openweathermap.org/api_keys
 # 16d5b28a66665229c4d27b8e410d62ad
+
+
 
 
 # streamlit_app.py
@@ -47,11 +58,4 @@ st.write("입력한 도시:", user_input)
 
 st.write("git push 테스트")
 
-#### git push ####
-# git add <파일 이름>
-# git commit -m "작업 내용 설명"
-# git push origin main
 
-
-#### git pull ####
-# git pull origin main
