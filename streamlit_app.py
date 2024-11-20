@@ -2,9 +2,9 @@
 #### git push ####
 # git add <파일 이름>               # 스테이징 영역에 파일 추가
 # git commit -m "작업 내용 설명"
-# git push origin main             # git Repository로 push (로컬 저장소의 변경내용을 원격저장소로 보냄)
+# git push origin main             # git Repository로 push (로컬저장소의 변경내용을 원격저장소로 보냄)
 
-# git reset HEAD <파일 이름>        # 스테이징 영역에서 파일 뺴기
+# git reset <파일 이름>        # 스테이징 영역에서 파일 뺴기
 # git status                       # git 현재상태 확인 
 # git log                          # git 로그 확인
 
