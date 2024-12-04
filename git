@@ -1,8 +1,19 @@
 
 
+
+
+
 #### git 레퍼지토리 변경 ####
-#   git remote -v             현재 설정된 리모트 저장소 확인
+#   git remote -v           현재 설정된 리모트 저장소 확인
 #   git remote set-url origin https://github.com/BK0810/Tech         github 리모트 저장소 변경
+
+
+#### git 브랜치 ####
+#   저장소 >> 브랜치
+#   git branch      현재 브랜치 확인
+#   git checkout -b <브랜치명>      새브랜치 생성
+
+
 
 
 #### git push ####
