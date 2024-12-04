@@ -20,6 +20,7 @@
 
 #### git push ####
 #   git add <파일 이름>               # 스테이징 영역에 파일 추가
+#   git add .                        # 현재 디렉토리 내의 모든 파일 스테이징
 #   git commit -m "작업 내용 설명"
 #   git push origin main             # git Repository로 push (로컬저장소의 변경내용을 원격저장소로 보냄)
 
