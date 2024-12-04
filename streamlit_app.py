@@ -22,6 +22,8 @@
 
 # 스트림릿 커뮤니티 클라우드
 # https://share.streamlit.io/
+# https://bk0810.streamlit.app/
+
 
 # 실행명령어: streamlit run streamlit_app.py
 # 종료명령어: ctrl + c
