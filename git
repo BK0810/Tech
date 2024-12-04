@@ -12,6 +12,8 @@
 #   저장소 >> 브랜치
 #   git branch      현재 브랜치 확인
 #   git checkout -b <브랜치명>      새브랜치 생성
+#   git checkout main               브랜치 병합
+#   git merge <새로운_브랜치_이름>
 
 
 
